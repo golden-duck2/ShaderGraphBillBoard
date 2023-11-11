@@ -2,12 +2,9 @@ using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 
-public class Shader : MonoBehaviour
+public class SampleRotation : MonoBehaviour
 {
     [SerializeField] float rotationSpeed = 1.0f;
-
-    bool isUp = true;
-
 
     void Update()
     {
