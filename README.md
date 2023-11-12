@@ -14,9 +14,4 @@ Shader Graph の Vertex Position に直接接続してください。
 
 ![image](https://github.com/golden-duck2/ShaderGraphBillBoard/assets/54435287/2afd7000-f474-4959-ac3e-4f7db6f24d39)
 
-# Liscence
-便宜上、Mit Lisence としますがコピペなので記載不要です。
-
-
-
 
