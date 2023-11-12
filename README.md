@@ -1,7 +1,7 @@
 # ShaderGraphBillBoard
 ShaderGraph で BillBoard を導入しやすいようにパッケージ化しました。
 
-
+![image](https://github.com/golden-duck2/ShaderGraphBillBoard/assets/54435287/2afd7000-f474-4959-ac3e-4f7db6f24d39)
 
 以下の記事をカスタムノード化しただけのものになります。
 導入が楽だね！　それだけ。
